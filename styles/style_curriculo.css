@@ -99,8 +99,8 @@ body {
 
 #fixed-gif {
     position: absolute;
-    width: 40%;
-    top: 19%;
+    width: 30%;
+    top: 30%;
     right: 0;
     left: 18cm;
     padding: 20px;  /* Move a imagem 2 cm para a esquerda da posição original */
