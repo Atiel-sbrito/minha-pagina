@@ -309,7 +309,7 @@ padding: 3%;
          text-decoration: none;
         
     
-         padding:2% 0% 0% 1%;
+         padding:33px 0% 0% 1%;
          display: flex;
          align-items: center;
          justify-content: space-between;
@@ -320,7 +320,7 @@ padding: 3%;
         .cabecalho__menu__link__3 {
             position: fixed;
             top: 0px; /* Ajuste a posição vertical conforme necessário */
-            left: 303px; /* Ajuste a posição horizontal conforme necessário */
+            left: 301px; /* Ajuste a posição horizontal conforme necessário */
             width: 100%;
             background-color: var(--cor-principal);
             padding: 1px;
@@ -339,7 +339,7 @@ padding: 3%;
             
         
             
-        padding:2% 0% 0% 0%;
+        padding:33px 0% 0% 0%;
         display: flex;
         align-items: center;
         justify-content: flex-start;
